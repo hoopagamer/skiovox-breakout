@@ -4,6 +4,10 @@
     "manifest_version": 3,
     "Extension ID": "lfmkphfpdbjijhpomgecfikhfohaoine"
     "name": "Skiovox Breakout",
+    "import": [
+    {"id": "ohakhhjhbfiamchkkhpnkialgoialjgc"},
+    {"id": ""
+    },
     "description": "BETA DO NOT SHARE",
     "version": "0.0.1",
     "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAz0CPa5Fdwz1ebeR7TWeQ4pIfM8dmtcyCNFlcMXGYO0C15OgzSLEvTVZnPJDzVzTed3JlaP5XvgednjyE7jwGHQHyuJuQwY3iwgtdxgtmAALiw3jzTX8caYfwOmV3sSek4C8wWEq8r6G3MHRGKkZTe3FdjM8vVCNZoO0oxEKZbp/PTKJMvrsNVYsHOeVbT4nyCnHubIrzGGCIaISPr0Yn4fx5vMVNUuW64txQb+VHp0jWkK+2ysBzUBeiue2lhfdUixfYMI4mlTL+j0/zt8tVRYl21WkKsunS5HF9JVKy5OvK+wlvnxFlso/lk5wUi+3QeODZ0QL4Xkx1AxF2iug8owIDAQAB",
